@@ -12,7 +12,7 @@ PKG_VERSION:=3.0.11
 PKG_RELEASE:=1
 
 PKG_SOURCE:=$(PKG_NAME)-$(PKG_VERSION).tar.gz
-PKG_SOURCE_URL:=ftp://sourceware.org/pub/libffi/
+PKG_SOURCE_URL:=http://www.mirrorservice.org/sites/sourceware.org/pub/libffi/
 PKG_MD5SUM:=f69b9693227d976835b4857b1ba7d0e3
 
 PKG_LICENSE:=MIT
