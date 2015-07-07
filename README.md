@@ -28,7 +28,7 @@ Notably it has:
 - add this line to your `feeds.conf` or `feeds.conf.default`
 
 ```
-src-git printing git://github.com/FranciscoBorges/openwrt-printing-packages.git
+src-git printing https://github.com/unixz/printing-max.git
 ```
 
 - to compile everything in this feed you should use the script `setup-buildsystem.sh` or some variation of those commands.
